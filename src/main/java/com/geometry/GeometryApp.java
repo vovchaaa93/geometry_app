@@ -4,11 +4,8 @@ import com.geometry.shapes.Circle;
 import com.geometry.shapes.Rectangle;
 import com.geometry.shapes.Shape;
 import com.geometry.shapes.Triangle;
-import com.geometry.shapes.threeD.Cube;
-import com.geometry.shapes.threeD.Shape3D;
-import com.geometry.shapes.threeD.Sphere;
 import com.geometry.utils.GeometryUtils;
-
+import com.geometry.shapes3D.*;
 import java.util.ArrayList;
 import java.util.List;
 
